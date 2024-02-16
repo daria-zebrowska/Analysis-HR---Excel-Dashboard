@@ -1,4 +1,6 @@
-Analiza-HR---Excel-Dashboard.
+##Analiza-HR---Excel-Dashboard.
+---
+
 Efektem mojego projektu jest analiza danych - interaktywny dashboard, przedstawiający analizę kluczowych wskaźników związanych z zarządzaniem zasobami ludzkimi. 
 Zawiera on podstawowe informacje o osobach zatrudnionych w firmie, takie jak: 
 płeć, wiek, rodzaj umowy, wymiar etatu, liczba dni nieobecnych i spóźnień, czy dział w którym pracują. 
@@ -8,7 +10,9 @@ Plik .xlsx to skoroszyt z 3 arkuszami (1 z interaktywnym dashboardem, 1 z bazą 
 Zachęcam do pozostawienia opinii. Dziękuję!
 Daria Żebrowska
 
-Analysis-HR---Excel-Dashboard.
+##Analysis-HR---Excel-Dashboard.
+---
+
 The result of my project is a data analysis - an interactive dashboard, showing analysis of key indicators related to human resources management. 
 It contains basic information about the people employed by the company, such as: 
 gender, age, type of contract, full-time equivalent, number of days absent and late, or the department in which they work. 
