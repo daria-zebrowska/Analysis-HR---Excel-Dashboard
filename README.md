@@ -7,7 +7,7 @@ płeć, wiek, rodzaj umowy, wymiar etatu, liczba dni nieobecnych i spóźnień, 
 Baza zawiera ponad 2000 rekordów z danymi o pracownikach zatrudnionych przez firmę.
 Plik .xlsx to skoroszyt z 3 arkuszami (1 z interaktywnym dashboardem, 1 z bazą danych i 1 z tabelami i wykresami - arkusz roboczy). 
 
-## Wizualizacje
+## Wizualizacja
 ![Podgląd Dashboardu](dashboard_HR.jpg)
 
 Zachęcam do pozostawienia opinii. Dziękuję!
