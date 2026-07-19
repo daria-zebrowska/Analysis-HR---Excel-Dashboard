@@ -1,4 +1,4 @@
-Analiza-HR---Excel-Dashboard.
+Analiza-HR-Excel-Dashboard.
 ---
 
 Efektem mojego projektu jest analiza danych - interaktywny dashboard, przedstawiający analizę kluczowych wskaźników związanych z zarządzaniem zasobami ludzkimi. 
